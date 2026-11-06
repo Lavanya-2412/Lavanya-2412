@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi,I'm Lavanya!
+-🎓 About Me
+    I'm a student passionate about technology and data.
+    Interested in Data Analytics and problem-solving.
+    Currently building my technical and programming skills.
 
-<!--
-**Lavanya-2412/Lavanya-2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📚 Currently Learning
+    DBMS and SQL,Python,Data Analytics,Microsoft Excel 
 
-Here are some ideas to get you started:
+🎯 My Goals
+    Become a skilled Data Analyst.
+    Work on real-world data projects.
+    Improve my programming and analytical skills.
+    Build a strong portfolio through GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+
+    Programming: C, Python (Learning)
+    Database: SQL (Learning)
+    Tools: Git, GitHub, MS Excel
+
+📫 Connect With Me
+    GitHub: https://github.com/Lavanya-2412
+    LinkedIn: www.linkedin.com/in/lavanya-m-b4a605447
+    Email: lavanyamahadevappa24@gmail.com
+
+
+
